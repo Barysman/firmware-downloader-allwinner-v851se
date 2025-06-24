@@ -6,10 +6,14 @@
 <span style="color:red; font-size:24px;">Владельцы репозитория не несут ответственности за окирпичивание девайсов.</span>
 
 ## Внешний вид адаптера
-<img src="pictures/01.jpg" alt="Фото девайса 1" width="400">
-<img src="pictures/02.jpg" alt="Фото девайса 2" width="400">
-<img src="pictures/03.jpg" alt="Фото девайса 3" width="400">
-<img src="pictures/04.jpg" alt="Технические характеристики" width="400">
+## Внешний вид адаптера
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="pictures/01.jpg" alt="Фото девайса 1" width="48%">
+  <img src="pictures/02.jpg" alt="Фото девайса 2" width="48%">
+  <img src="pictures/03.jpg" alt="Фото девайса 3" width="48%">
+  <img src="pictures/04.jpg" alt="Технические характеристики" width="48%">
+</div>
 
 ## Описание адаптера
 * На самом адаптере нет обозначения модели, бренда, версии
@@ -18,8 +22,10 @@
 * Так же есть упоминание `Tina Project` (разработчик?)
 * В настройках присутствует только `5GHz Wi-Fi`
 
-<img src="pictures/07.jpg" alt="Системная информация 1" width="400">
-<img src="pictures/08.jpg" alt="Системная информация 2" width="400">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="pictures/07.jpg" alt="Системная информация 1" width="48%">
+  <img src="pictures/08.jpg" alt="Системная информация 2" width="48%">
+</div>
 
 
 ## Обновление адаптера через скрипт
